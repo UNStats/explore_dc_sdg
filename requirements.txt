@@ -1,0 +1,17 @@
+config
+python-dotenv
+numpy==1.22.1
+pandas==1.4.0
+requests==2.27.1
+openpyxl==3.0.9
+xlsxwriter==3.0.2
+stringcase
+seaborn
+natsort
+python-slugify==5.0.2
+markdownify==0.10.3
+markdown
+beautifulsoup4==4.10.0
+jupyterlab
+
+datacommons_pandas
